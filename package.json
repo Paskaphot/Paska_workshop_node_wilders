@@ -1,0 +1,24 @@
+{
+  "name": "paska_workshop_node_wilders",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paskaphot/Paska_workshop_node_wilders.git"
+  },
+  "author": "Pascaline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paskaphot/Paska_workshop_node_wilders/issues"
+  },
+  "homepage": "https://github.com/Paskaphot/Paska_workshop_node_wilders#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
